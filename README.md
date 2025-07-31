@@ -1,4 +1,4 @@
-👋 Hi there! I'm passionate about creating efficient and visually appealing web applications. My expertise spans across modern frameworks like React, Laravel, and Bootstrap, with a keen focus on responsive design and user experience.
+👋 Hi there! I'm passionate about creating efficient and visually appealing web applications. My expertise spans across modern frameworks like Vue, Laravel, and Bootstrap, with a keen focus on responsive design and user experience.
 
 🌟 I'm dedicated to building solutions that not only function seamlessly but also provide an exceptional user interface. Whether it's crafting robust backend systems or fine-tuning the frontend, I enjoy every step of the development process.
 
